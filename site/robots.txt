@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://beardedventures.github.io/toolbox/sitemap-index.xml
