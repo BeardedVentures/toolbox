@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-12T03:20:26.727Z",
+  "generatedAt": "2026-11-14T20:23:43.279Z",
   "source": {
     "repository": "BeardedVentures/BVToolbox (private)",
-    "commit": "6da741068854e4582f90125e3231e26482fab884",
+    "commit": "8f69e97acba1af140f865d062f5334bb7b638a73",
     "branch": "",
     "clean": true,
     "packageLockSha256": "f477cf5b6ce88eaf0c9a012254eeb9a31f86e34e2c542b233615b6c7b671439d"
@@ -12,15 +12,15 @@
     "siteUrl": "https://beardedventures.github.io",
     "basePath": "/toolbox",
     "indexable": true,
-    "htmlFiles": 73,
-    "sitemapRoutes": 72,
+    "htmlFiles": 79,
+    "sitemapRoutes": 78,
     "content": {
-      "prompts": 25,
-      "skills": 17,
-      "mcps": 6,
-      "guides": 6
+      "prompts": 26,
+      "skills": 20,
+      "mcps": 7,
+      "guides": 7
     },
-    "artifactFiles": 107,
-    "artifactSha256": "890b4f38214b7e4e79deacd6c68c04813c3492b81515ec418d251bb30126a856"
+    "artifactFiles": 113,
+    "artifactSha256": "3f2209c230a64a781bdb9da86c0d03afdd64fc8e2ca02ae551638ca822697253"
   }
 }
