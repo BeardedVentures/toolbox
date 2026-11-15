@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-15T03:29:00.316Z",
+  "generatedAt": "2026-11-15T03:30:14.537Z",
   "source": {
     "repository": "BeardedVentures/BVToolbox (private)",
-    "commit": "c1ee75a3215416309f4f69870dc5d9dd4e681f06",
-    "branch": "",
+    "commit": "bc1f94420c27a22cd16036fadf5bfc89b833d2a6",
+    "branch": "deploy-build",
     "clean": true,
     "packageLockSha256": "f477cf5b6ce88eaf0c9a012254eeb9a31f86e34e2c542b233615b6c7b671439d"
   },
@@ -20,7 +20,7 @@
       "mcps": 7,
       "guides": 7
     },
-    "artifactFiles": 124,
-    "artifactSha256": "219cd73db30e9467eb792febb90fb56e4bea97fce8f51801cb1b10fe2bb4b3bc"
+    "artifactFiles": 130,
+    "artifactSha256": "1ec08106096578487bf540347e663c0a9d1101c13bdb30227bff2c8a8313881d"
   }
 }
